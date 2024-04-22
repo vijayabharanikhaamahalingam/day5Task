@@ -1,3 +1,3 @@
 # Day 5 Task
-create a resume using JSON[resume](./resume.js)
-iterate over all for loops [loop](loopingSample.js)
+1. create a resume using JSON[resume](./resume.js)
+2. iterate over all for loops [loop](loopingSample.js)
